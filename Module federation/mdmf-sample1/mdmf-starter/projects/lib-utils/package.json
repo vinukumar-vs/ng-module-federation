@@ -1,0 +1,15 @@
+{
+  "name": "lib-utils",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^14.2.0",
+    "@angular/core": "^14.2.0"
+  },
+  "dependencies": {
+    "@angular/material": "^13.0.0",
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "material-components-web": "^14.0.0"
+  }
+}
